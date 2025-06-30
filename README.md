@@ -1,19 +1,19 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🖼️ Responsive NFT Page
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple and responsive NFT landing page built with HTML and CSS. The page showcases a digital NFT card and is designed to adapt seamlessly across devices — from desktops to mobile phones.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- ✅ Clean and modern layout
+- ✅ Responsive design using Flexbox and media queries
+- ✅ Hover effects for interactivity
+- ✅ Semantic HTML5 structure
+- ✅ Mobile-first approach
 
-Happy Coding!# nft-project
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+
+
