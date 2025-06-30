@@ -13,7 +13,7 @@ A simple and responsive NFT landing page built with HTML and CSS. The page showc
 
 ## 🛠️ Tech Stack
 
-- HTML5
+- HTML5 
 - CSS3
 
 
